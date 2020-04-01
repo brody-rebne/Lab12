@@ -2,7 +2,7 @@
 
 ## Async Hotel
 
-By Sue Tarazi
+By Sue Tarazi & Brody Rebne
 
 4/1/2020
 
